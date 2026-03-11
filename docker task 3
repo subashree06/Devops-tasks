@@ -1,0 +1,8 @@
+Create a custom Nginx Docker image
+Use Docker Compose
+Use Bind Mount volume → /var/opt/nginx
+Push the image to Docker Hub
+
+
+  DOCKER CUSTOM IMAGE:
+https://hub.docker.com/repositories/subashree06
